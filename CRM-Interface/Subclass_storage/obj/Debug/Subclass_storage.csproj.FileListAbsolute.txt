@@ -1,0 +1,10 @@
+C:\Parsi\Morya\CRM\CRM-Interface\Subclass_storage\bin\Debug\Subclass_storage.exe.config
+C:\Parsi\Morya\CRM\CRM-Interface\Subclass_storage\bin\Debug\Subclass_storage.exe
+C:\Parsi\Morya\CRM\CRM-Interface\Subclass_storage\bin\Debug\Subclass_storage.pdb
+C:\Parsi\Morya\CRM\CRM-Interface\Subclass_storage\obj\Debug\Subclass_storage.csproj.AssemblyReference.cache
+C:\Parsi\Morya\CRM\CRM-Interface\Subclass_storage\obj\Debug\CRM_Interface.Custom_Controls.CustomTextBox.resources
+C:\Parsi\Morya\CRM\CRM-Interface\Subclass_storage\obj\Debug\Subclass_storage.Properties.Resources.resources
+C:\Parsi\Morya\CRM\CRM-Interface\Subclass_storage\obj\Debug\Subclass_storage.csproj.GenerateResource.cache
+C:\Parsi\Morya\CRM\CRM-Interface\Subclass_storage\obj\Debug\Subclass_storage.csproj.CoreCompileInputs.cache
+C:\Parsi\Morya\CRM\CRM-Interface\Subclass_storage\obj\Debug\Subclass_storage.exe
+C:\Parsi\Morya\CRM\CRM-Interface\Subclass_storage\obj\Debug\Subclass_storage.pdb
